@@ -1,1 +1,2 @@
 Autor: Wojciech Czachurski
+Kurs: Technologie DevOps
